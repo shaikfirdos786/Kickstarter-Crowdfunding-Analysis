@@ -1,4 +1,4 @@
-# Kickstarter Data Analytics Project  
+# Kickstarter Data Analysis Project  
 
 ## 📌 Project Overview  
 This project analyzes Kickstarter crowdfunding data to uncover patterns behind successful and failed campaigns.  
